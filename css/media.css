@@ -1,0 +1,19 @@
+@media screen and (max-width: 350px) {
+  p {
+    font-size: 25px;
+  }
+
+  img {
+    width: 65px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  p {
+    font-size: 40px;
+  }
+
+  #retryBtn {
+    font-size: 25px;
+  }
+}
